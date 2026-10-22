@@ -1,7 +1,9 @@
 # Horizon TechX Chatbot
 
+
+
 ## Description
-This is a simple rule-based chatbot developed in Python as part of the Horizon TechX Internship Program.
+This is a simple rule-based chatbot developed in Python
 
 ## Features
 - Responds to basic greetings
